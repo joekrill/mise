@@ -1,5 +1,12 @@
 # Changelog
 
+## [2026.6.0](https://github.com/jdx/mise/compare/v2026.5.18..v2026.6.0) - 2026-06-01
+
+### 🐛 Bug Fixes
+
+- **(completion)** rely on usage#649 for global flags, keep -r/-S promotion by @JamBalaya56562 in [#10176](https://github.com/jdx/mise/pull/10176)
+- **(spm)** track artifact bundle options in lock identity by @risu729 in [#10160](https://github.com/jdx/mise/pull/10160)
+
 ## [2026.5.18](https://github.com/jdx/mise/compare/v2026.5.17..v2026.5.18) - 2026-05-31
 
 ### 🚀 Features
